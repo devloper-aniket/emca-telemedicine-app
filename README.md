@@ -96,7 +96,7 @@ EMCA/
 
 Make sure the following are installed:
 
-* Java 17+ (or version used in project)
+* Java 17+
 * Maven
 * Node.js & npm
 * PostgreSQL
