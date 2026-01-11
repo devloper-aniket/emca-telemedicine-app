@@ -249,8 +249,10 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 
 ## 👨‍💻 Developed By
 
-**EMCA – eMedical Care App**
-Telemedicine and Doctor Consultation Platform
+👤 Name: **[Aniket Das](https://www.linkedin.com/in/aniket-cs/)** 
+
+📧 Email: aniket.das@outlook.in
+
 Built using Java, Spring Boot, React.js, and PostgreSQL
 
 ---
