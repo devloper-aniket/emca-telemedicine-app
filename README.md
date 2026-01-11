@@ -12,19 +12,50 @@ EMCA (eMedical Care App) is a full-stack telemedicine platform that enables onli
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.jpeg)
+
+### Why Choose EMCA 
+![Why Choose EMCA](screenshots/why-choose-emca.png)
+
+### EMCA More Details
+
+![EMCA More Details](screenshots/emca-details.png)
 
 ### Patient Registration
 
 ![Patient Registration](screenshots/patient-registration.png)
 
+### Doctor Registration
+
+![Doctor Dashboard](screenshots/doctor-registration.png)
+
+### Patient Dashboard
+
+![Patient Dashboard](screenshots/patient-dashboard.png)
+
 ### Doctor Dashboard
 
 ![Doctor Dashboard](screenshots/doctor-dashboard.png)
 
+### Appointment Booking
+
+![Appointment Booking](screenshots/book-appointment.png)
+
 ### Consultation Module
 
-![Consultation](screenshots/consultation.png)
+![Consultation](screenshots/appointments-page.png)
+
+### Registration Email
+
+![Consultation](screenshots/registration-welcome-email.png)
+
+### Appointment Confirmed Email for Patient
+
+![Consultation](screenshots/appointment-confirmed-email.png)
+
+### Appointment Scheduled Email for Doctor
+
+![Consultation](screenshots/appointment-scheduled-email.png)
 
 ---
 
